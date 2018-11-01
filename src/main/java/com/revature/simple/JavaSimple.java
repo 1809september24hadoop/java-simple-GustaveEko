@@ -17,6 +17,7 @@ package com.revature.simple;
  *
 **/
 public interface JavaSimple {
+
 	 
 	/**
 	 * 1. Cast from double to int.
